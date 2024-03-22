@@ -1,6 +1,5 @@
 - Hi, I’m @MicAnt64
 - I’m interested in Machine Learning, Software Engineering, Web Development and IoT.
-- I’m currently learning Back-end Development, a myriad of other technologies, and always improving on my current skills. 
 - I’m looking to collaborate on any interesting project.
 
 <!---
